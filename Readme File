@@ -1,0 +1,9 @@
+financial-database-dashboard/
+├── data/
+│   └── financial_data.xlsx      # Excel database with transactions, income, expenses
+├── dashboard/
+│   └── dashboard.ipynb          # Jupyter Notebook or dashboard script
+├── images/
+│   └── sample_dashboard.png     # Screenshots of dashboard visuals
+├── README.md                    # Project documentation
+└── requirements.txt             # Python dependencies
